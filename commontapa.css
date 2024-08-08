@@ -1,0 +1,104 @@
+* {
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);  
+}
+/* Put in by proppyt for the removing of the orange selection when clicked in android browser */
+a  {
+   text-decoration: none;
+   color: #000000;
+}
+
+a ins  {
+   text-decoration: none;
+}
+
+#videosmusicalesbutton a:hover  {
+   background-position: -322px 0%;
+}
+
+#tvprogramasbutton a:hover  {
+   background-position: -249px 0%;
+}
+
+#videosmusicalesbutton a  {
+   background: url(p1tpilototapa1280media/videosmusicalesbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 260px;
+   width: 322px;
+   font-size: 260px;
+   line-height: 260px;
+}
+
+#pelculasbutton a:hover  {
+   background-position: -293px 0%;
+}
+
+#videosmusicalesbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 877px;
+   top: 919px;
+   z-index: 2;
+   width: 322px;
+   height: 260px;
+}
+
+#tvprogramasbutton a  {
+   background: url(p1tpilototapa1280media/tvprogramasbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 210px;
+   width: 249px;
+   font-size: 210px;
+   line-height: 210px;
+}
+
+#tvprogramasbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 88px;
+   top: 912px;
+   z-index: 2;
+   width: 249px;
+   height: 210px;
+}
+
+#p1tpilototapa1280  {
+   margin: 0px auto 0px auto;
+   width: 1280px;
+   position: relative;
+}
+
+#pelculasbutton a  {
+   background: url(p1tpilototapa1280media/pelculasbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 267px;
+   width: 293px;
+   font-size: 267px;
+   line-height: 267px;
+}
+
+#pelculasbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 494px;
+   top: 912px;
+   z-index: 2;
+   width: 293px;
+   height: 267px;
+}
+
+#layer3  {
+   background: url(p1tpilototapa1280media/layer3.gif) no-repeat;
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   z-index: 1;
+   width: 1280px;
+   height: 1417px;
+}
+
+html, body  {
+   padding: 0px;
+   margin: 0px;
+   background-color: #000000;
+}
+

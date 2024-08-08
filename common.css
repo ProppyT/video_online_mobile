@@ -1,0 +1,617 @@
+a  {
+   text-decoration: none;
+   color: #000000;
+}
+
+a ins  {
+   text-decoration: none;
+}
+
+#dramabutton a:hover,
+#deportebutton a:hover,
+#historiabutton a:hover,
+#comediabutton a:hover,
+#fantasiabutton a:hover,
+#musicalbutton a:hover,
+#cienciaficconbutton a:hover,
+#accionbutton a:hover,
+#animacionbutton a:hover,
+#guerrabutton a:hover,
+#romancebutton a:hover,
+#aventurabutton a:hover,
+#westernbutton a:hover,
+#familiarbutton a:hover,
+#suspensobutton a:hover,
+#extranjerasbutton a:hover,
+#infantilesbutton a:hover,
+#crimenbutton a:hover  {
+   background-position: -148px 0%;
+}
+
+#westernbutton a,
+#suspensobutton a,
+#animacionbutton a,
+#aventurabutton a,
+#musicalbutton a,
+#dramabutton a,
+#cienciaficconbutton a,
+#extranjerasbutton a,
+#familiarbutton a,
+#deportebutton a,
+#accionbutton a,
+#infantilesbutton a,
+#historiabutton a,
+#crimenbutton a,
+#comediabutton a,
+#fantasiabutton a,
+#guerrabutton a,
+#romancebutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 56px;
+   width: 148px;
+   background-position: 0% 0px;
+   font-size: 56px;
+   line-height: 56px;
+}
+
+#layer43,
+#layer42,
+#layer41,
+#layer40  {
+   visibility: visible;
+   position: absolute;
+   left: 0px;
+   z-index: 3;
+   width: 1280px;
+   height: 252px;
+   background-repeat: no-repeat;
+}
+
+#cintillonegro,
+#cintillonegrocopy  {
+   position: absolute;
+   left: 0px;
+   z-index: 3;
+   width: 1280px;
+   height: 292px;
+   background-repeat: no-repeat;
+}
+
+#videosmusicalesbutton a:hover  {
+   background-position: -186px 0%;
+}
+
+#westernbutton,
+#dramabutton  {
+   visibility: visible;
+   position: absolute;
+   top: 302px;
+   z-index: 4;
+   width: 148px;
+   height: 56px;
+}
+
+#tvprogramasbutton a:hover  {
+   background-position: -146px 0%;
+}
+
+#pelculasganadorasdeloscar  {
+	background: url(p1tpiloto1media/pelculasganadorasdeloscar.gif) no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 44px;
+	top: 1287px;
+	z-index: 4;
+	width: 362px;
+	height: 25px;
+}
+
+#videosmusicalesbutton a  {
+   background: url(p1tpiloto1media/videosmusicalesbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 150px;
+   width: 186px;
+   font-size: 150px;
+   line-height: 150px;
+}
+
+#pelculassugeridasparat  {
+	background: url(p1tpiloto1media/pelculassugeridasparat.gif) no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 42px;
+	top: 987px;
+	z-index: 4;
+	width: 315px;
+	height: 25px;
+}
+
+#videosmusicalesbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 49px;
+   top: 1981px;
+   z-index: 4;
+   width: 186px;
+   height: 150px;
+}
+
+#cienciaficconbutton a  {
+   background-image: url(p1tpiloto1media/cienciaficconbutton.gif);
+}
+
+#pelculasmsvistascopy  {
+	background: url(p1tpiloto1media/pelculasmsvistascopy.gif) no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 42px;
+	top: 683px;
+	z-index: 4;
+	width: 240px;
+	height: 20px;
+}
+
+#searchbutton a:hover  {
+   background-position: -31px 0%;
+}
+
+#recientementevistas  {
+	background: url(p1tpiloto1media/recientementevistas.gif) no-repeat;
+	visibility: visible;
+	position: absolute;
+	left: 43px;
+	top: 383px;
+	z-index: 4;
+	width: 254px;
+	height: 18px;
+}
+
+#tvprogramasbutton a  {
+   background: url(p1tpiloto1media/tvprogramasbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 160px;
+   width: 146px;
+   font-size: 160px;
+   line-height: 160px;
+}
+
+#extranjerasbutton a  {
+   background-image: url(p1tpiloto1media/extranjerasbutton.gif);
+}
+
+#reinabutton a:hover  {
+   background-position: -182px 0%;
+}
+
+#qugnerotegustaraver  {
+   background: url(p1tpiloto1media/qugnerotegustaraver.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 486px;
+   top: 175px;
+   z-index: 3;
+   width: 312px;
+   height: 22px;
+}
+
+#cienciaficconbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 777px;
+   top: 254px;
+   z-index: 6;
+   width: 148px;
+   height: 56px;
+}
+
+#ingresarregistrate  {
+   background: url(p1tpiloto1media/ingresarregistrate.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 1050px;
+   top: 55px;
+   z-index: 2;
+   width: 201px;
+   height: 20px;
+}
+
+#infantilesbutton a  {
+   background-image: url(p1tpiloto1media/infantilesbutton.gif);
+}
+
+#extranjerasbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 638px;
+   top: 301px;
+   z-index: 5;
+   width: 148px;
+   height: 56px;
+}
+
+#tvprogramasbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 54px;
+   top: 1666px;
+   z-index: 4;
+   width: 146px;
+   height: 160px;
+}
+
+#cintillonegrocopy  {
+   background-image: url(p1tpiloto1media/cintillonegrocopy.gif);
+   top: 1892px;
+}
+
+#animacionbutton a  {
+   background-image: url(p1tpiloto1media/animacionbutton.gif);
+}
+
+#familiarbutton a  {
+   background-image: url(p1tpiloto1media/familiarbutton.gif);
+}
+
+#fantasiabutton a  {
+   background-image: url(p1tpiloto1media/fantasiabutton.gif);
+}
+
+#suspensobutton a  {
+   background-image: url(p1tpiloto1media/suspensobutton.gif);
+}
+
+#historiabutton a  {
+   background-image: url(p1tpiloto1media/historiabutton.gif);
+}
+
+#infantilesbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 502px;
+   top: 301px;
+   z-index: 3;
+   width: 148px;
+   height: 56px;
+}
+
+#aventurabutton a  {
+   background-image: url(p1tpiloto1media/aventurabutton.gif);
+}
+
+#westernbutton a  {
+   background-image: url(p1tpiloto1media/westernbutton.gif);
+}
+
+#animacionbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 777px;
+   top: 206px;
+   z-index: 8;
+   width: 148px;
+   height: 56px;
+}
+
+#musicalbutton a  {
+   background-image: url(p1tpiloto1media/musicalbutton.gif);
+}
+
+#deportebutton a  {
+   background-image: url(p1tpiloto1media/deportebutton.gif);
+}
+
+#romancebutton a  {
+   background-image: url(p1tpiloto1media/romancebutton.gif);
+}
+
+#comediabutton a  {
+   background-image: url(p1tpiloto1media/comediabutton.gif);
+}
+
+#familiarbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 222px;
+   top: 254px;
+   z-index: 10;
+   width: 148px;
+   height: 56px;
+}
+
+#crimenbutton a  {
+   background-image: url(p1tpiloto1media/crimenbutton.gif);
+}
+
+#historiabutton  {
+   visibility: visible;
+   position: absolute;
+   left: 362px;
+   top: 254px;
+   z-index: 9;
+   width: 148px;
+   height: 56px;
+}
+
+#guerrabutton a  {
+   background-image: url(p1tpiloto1media/guerrabutton.gif);
+}
+
+#searchbutton a  {
+   background: url(p1tpiloto1media/searchbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 31px;
+   width: 31px;
+   font-size: 31px;
+   line-height: 31px;
+}
+
+#aventurabutton  {
+   visibility: visible;
+   position: absolute;
+   left: 638px;
+   top: 206px;
+   z-index: 9;
+   width: 148px;
+   height: 56px;
+}
+
+#accionbutton a  {
+   background-image: url(p1tpiloto1media/accionbutton.gif);
+}
+
+#fantasiabutton  {
+   visibility: visible;
+   position: absolute;
+   left: 361px;
+   top: 206px;
+   z-index: 11;
+   width: 148px;
+   height: 56px;
+}
+
+#suspensobutton  {
+   visibility: visible;
+   position: absolute;
+   left: 915px;
+   top: 302px;
+   z-index: 3;
+   width: 148px;
+   height: 56px;
+}
+
+#cintillonegro  {
+   background-image: url(p1tpiloto1media/cintillonegro.gif);
+   top: 1586px;
+}
+
+#searchform1bg  {
+   background: url(p1tpiloto1media/searchform1bg.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 953px;
+   top: 89px;
+   z-index: 2;
+   width: 301px;
+   height: 47px;
+}
+
+#deportebutton  {
+   visibility: visible;
+   position: absolute;
+   left: 916px;
+   top: 253px;
+   z-index: 5;
+   width: 148px;
+   height: 56px;
+}
+
+#dramabutton a  {
+   background-image: url(p1tpiloto1media/dramabutton.gif);
+}
+
+#musicalbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 501px;
+   top: 255px;
+   z-index: 8;
+   width: 148px;
+   height: 56px;
+}
+
+#reinabutton a  {
+   background: url(p1tpiloto1media/reinabutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 249px;
+   width: 182px;
+   font-size: 249px;
+   line-height: 249px;
+}
+
+#westernbutton  {
+   left: 362px;
+}
+
+#comediabutton  {
+   visibility: visible;
+   position: absolute;
+   left: 501px;
+   top: 206px;
+   z-index: 10;
+   width: 148px;
+   height: 56px;
+}
+
+#romancebutton  {
+   visibility: visible;
+   position: absolute;
+   left: 638px;
+   top: 253px;
+   z-index: 7;
+   width: 148px;
+   height: 56px;
+}
+
+#guerrabutton  {
+   visibility: visible;
+   position: absolute;
+   left: 222px;
+   top: 302px;
+   z-index: 5;
+   width: 148px;
+   height: 56px;
+}
+
+#searchbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 1214px;
+   top: 97px;
+   z-index: 4;
+   width: 31px;
+   height: 31px;
+}
+
+#crimenbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 916px;
+   top: 206px;
+   z-index: 7;
+   width: 148px;
+   height: 56px;
+}
+
+#accionbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 223px;
+   top: 206px;
+   z-index: 12;
+   width: 148px;
+   height: 56px;
+}
+
+#reinabutton  {
+   visibility: visible;
+   position: absolute;
+   left: 299px;
+   top: 1611px;
+   z-index: 4;
+   width: 182px;
+   height: 249px;
+}
+
+#searchinput  {
+   background: url(p1tpiloto1media/searchinput.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 963px;
+   top: 97px;
+   z-index: 4;
+   width: 245px;
+   height: 29px;
+}
+
+#dramabutton  {
+   left: 776px;
+}
+
+#p1tpiloto1  {
+   margin: 0px auto 0px auto;
+   width: 1280px;
+   position: relative;
+}
+
+#searchicon  {
+   background: url(p1tpiloto1media/searchicon.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 972px;
+   top: 105px;
+   z-index: 5;
+   width: 12px;
+   height: 15px;
+}
+
+#layer43  {
+   background-image: url(p1tpiloto1media/layer43.gif);
+   top: 1297px;
+}
+
+#layer41  {
+   background-image: url(p1tpiloto1media/layer41.gif);
+   top: 689px;
+}
+
+#layer42  {
+   background-image: url(p1tpiloto1media/layer42.gif);
+   top: 996px;
+}
+
+#layer40  {
+	background-image: url(p1tpiloto1media/layer40.gif);
+	top: 389px;
+}
+
+#glossy  {
+   background: url(p1tpiloto1media/glossy.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 951px;
+   top: 88px;
+   z-index: 3;
+   width: 306px;
+   height: 30px;
+}
+
+#layer2  {
+   background: url(p1tpiloto1media/layer2.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 0px;
+   top: 0px;
+   z-index: 1;
+   width: 1280px;
+   height: 2318px;
+}
+
+#layer4  {
+   background: url(p1tpiloto1media/layer4.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 0px;
+   top: 157px;
+   z-index: 2;
+   width: 1280px;
+   height: 2161px;
+}
+
+#layer3  {
+   background: url(p1tpiloto1media/layer3.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 43px;
+   top: 32px;
+   z-index: 2;
+   width: 336px;
+   height: 102px;
+}
+
+#salir  {
+   background: url(p1tpiloto1media/salir.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 570px;
+   top: 2212px;
+   z-index: 3;
+   width: 151px;
+   height: 49px;
+}
+
+html, body  {
+   padding: 0px;
+   margin: 0px;
+   background-color: #000000;
+}
